@@ -1,4 +1,4 @@
-## [The Wild Oasis](https://kalinin-vlad.github.io/wild-oasis/)
+## [The Wild Oasis](https://github.com/kalinin-vlad/The-Wild-Oasis-website)
 
 веб-сайт, ориентированный на клиента для отеля "The Wild Oasis",
 где гости имеют возможность узнать больше об отеле,
